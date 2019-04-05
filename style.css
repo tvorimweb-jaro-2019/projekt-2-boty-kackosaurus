@@ -134,6 +134,7 @@ li {
     border-style: solid;
     border-color:  #f15f42;
     border-radius: 50%;
+    border-width: 2px;
     color: #f15f42;
 }
 
